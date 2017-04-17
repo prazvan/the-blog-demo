@@ -1,0 +1,23 @@
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+.container
+{
+    max-width: 1024px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.navbar-header
+{
+    width: 100% !important;
+}
+
+.page-header
+{
+    text-align: center;
+}
